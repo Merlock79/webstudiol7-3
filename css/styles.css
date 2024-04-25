@@ -1,5 +1,7 @@
 :root {
   --primaryButtonColor: rgba(33, 150, 243, 1);
+  --primaryFooterColor: rgba(47, 48, 58, 1)
+  --primaryHeaderColor: rgba(47, 48, 58, 1)
 }
 .thebutton {
   color: var(--primaryButtonColor);
